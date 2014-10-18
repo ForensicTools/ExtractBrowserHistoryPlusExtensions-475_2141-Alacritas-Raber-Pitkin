@@ -1,9 +1,12 @@
 ##Readme/F.A.Q.
 
-*Team Members:* Lucian Alacritas, Rashele Raber, Rafidah Pitkin
-*Program Name:* GhostWindows Browser Extractor (GBE)
-*Program Language:* Java
-*License:* MIT
+**Team Members:** Lucian Alacritas, Rashele Raber, Rafidah Pitkin
+
+**Program Name:** GhostWindows Browser Extractor (GBE)
+
+**Program Language:** Java
+
+**License:** MIT
 
 ###What is this?
 GBE is a tool created in response to current tools that extract information from web browsers. We expect to make a tool that not only collects history and usage of the browser, but also lists what add-ons and extensions currently installed on it. We also want it to show the data in several ways, such as excel spreadsheets and graphs.
@@ -24,4 +27,4 @@ Doesn’t exist yet, so we can’t say.
 Doesn’t exist yet, so we don’t know its capabilities.
 
 ###Updates:
-*2014/10/17* - This document was created!
+**2014/10/17** - This document was created!
