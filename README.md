@@ -4,7 +4,7 @@
 
 **Program Name:** GhostWindows Browser Extractor (GBE)
 
-**Program Language:** Java
+**Program Language:** Perl
 
 **License:** MIT
 
@@ -15,7 +15,7 @@ GBE is a tool created in response to current tools that extract information from
 It is useful to see what pages a user has visited frequently, and to see what kinds of extensions they like using. This information can be taken from multiple boxes and then compared to each other. This can give the analyst a good idea of what people are using. Or, if using it on a network, the analyst can see what people have in common with regards to web browsing.
 
 ###What did you use to make it?
-The tool will be created in Java, along with jsoup (a Java HTML parser).
+The tool will be created in Perl.
 
 ###What’s its output?
 The idea is to use different types of outputs, such as graphs and tables. They can be used to show the different types of information (i.e. history, extensions) in various ways.
@@ -30,3 +30,5 @@ Doesn’t exist yet, so we don’t know its capabilities.
 **2014/10/17** - This document was created!
 
 **2014/10/23** - Added gbe.java
+
+**2014/11/16** - Edited readme to reflect language change
