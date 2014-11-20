@@ -32,3 +32,5 @@ Doesn’t exist yet, so we don’t know its capabilities.
 **2014/10/23** - Added gbe.java
 
 **2014/11/16** - Edited readme to reflect language change
+
+**2014/11/19** - GBE.pl version 1: get info from Chrome + output in command line and excel
