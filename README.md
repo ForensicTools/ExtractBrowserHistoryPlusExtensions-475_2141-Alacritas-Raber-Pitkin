@@ -21,10 +21,11 @@ The tool will be created in Perl.
 The idea is to use different types of outputs, such as graphs and tables. They can be used to show the different types of information (i.e. history, extensions) in various ways.
 
 ###How does it work?
-Doesn’t exist yet, so we can’t say.
+From the main menu, the user can extract the history from four different browsers: Chrome, Firefox, Safari, Opera. This cannot get history from private windows.
 
 ###Any limitations or issues?
-Doesn’t exist yet, so we don’t know its capabilities.
+Limitations: Currently only gets the history, not bookmarks or extensions. Does not go through Internet Explorer.
+Issues: Firefox history file also stores bookmarks / keywords / etc., which we cannot currently separate.
 
 ###Updates:
 **2014/10/17** - This document was created!
@@ -34,3 +35,5 @@ Doesn’t exist yet, so we don’t know its capabilities.
 **2014/11/16** - Edited readme to reflect language change
 
 **2014/11/19** - GBE.pl version 1: get info from Chrome + output in command line and excel
+
+**2014/12/14** - GBE version 1.5: from GBE_Menu.pl (main menu), run the programs for Chrome, Firefox, Safari, and / or Opera. Output in command line shows website list and count. Output in Excel shows website list and count, as well as four different graph types (line, pie, bar, column).
