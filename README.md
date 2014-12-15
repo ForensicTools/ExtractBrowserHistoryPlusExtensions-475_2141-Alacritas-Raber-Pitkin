@@ -24,8 +24,8 @@ The idea is to use different types of outputs, such as graphs and tables. They c
 From the main menu, the user can extract the history from four different browsers: Chrome, Firefox, Safari, Opera. This cannot get history from private windows.
 
 ###Any limitations or issues?
-Limitations: Currently only gets the history, not bookmarks or extensions. Does not go through Internet Explorer.
-Issues: Firefox history file also stores bookmarks / keywords / etc., which we cannot currently separate.
+**Limitations**: Currently only gets the history, not bookmarks or extensions. Does not go through Internet Explorer. <br/>
+**Issues**: Firefox history file also stores bookmarks / keywords / etc., which we cannot currently separate.
 
 ###Updates:
 **2014/10/17** - This document was created!
